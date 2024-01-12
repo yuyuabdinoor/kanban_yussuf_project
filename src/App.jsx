@@ -5,10 +5,10 @@ import Center from './components/Center'
 function App() {
   return (
     <div>
-      {/*Header Section*/}
-      <Header />
+      
+      <Header/>
 
-      {/*Center Section*/}
+      
       <Center/>
     </div>
   )
